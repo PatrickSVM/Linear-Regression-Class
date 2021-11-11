@@ -1,7 +1,7 @@
 #' Linear Regression Reference Class
 #'
 #' Definition of the Reference Class linreg for the linear regression model
-#' in Lab 4.
+#' in Lab #4.
 #'
 #'
 #' @field formula formula for building the model
